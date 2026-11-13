@@ -8,7 +8,7 @@ Guía interactiva de Raid 4P para Cobalion adaptada a una arquitectura modular m
 3. En **Build and deployment**, asegúrate de que el origen (*Source*) esté configurado en **GitHub Actions**.
 4. Cada vez que hagas `git push` a la rama `main` o `master`, la acción de GitHub compilará el proyecto y lo publicará automáticamente.
 
-## 🛠️ Ejecución Local
+## Ejecución Local
 
 ```bash
 # Instalar dependencias
